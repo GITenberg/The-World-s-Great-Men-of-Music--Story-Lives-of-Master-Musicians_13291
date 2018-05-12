@@ -1,0 +1,35 @@
+_repo: The-World-s-Great-Men-of-Music--Story-Lives-of-Master-Musicians_13291
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brower, Harriette
+    birthdate: 1869
+    deathdate: 1928
+    gutenberg_agent_id: '4981'
+    url: http://www.gutenberg.org/2009/agents/4981
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2004-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13291'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Composers -- Biography'
+- !lcc 'ML'
+- !lcsh 'Musicians'
+tableOfContents: Palestrina -- John Sebastian Bach -- George Frederick Handel -- Christoph
+  Willibald Gluck -- Josef Haydn -- Wolfgang Mozart -- Ludwig van Beethoven -- Carl
+  Maria von Weber -- Franz Schubert -- Felix Mendelssohn-Bartholdy -- Robert Schumann
+  -- Frederic Chopin -- Hector Berlioz -- Franz Liszt -- Giuseppe Verdi -- Richard
+  Wagner -- César Franck -- Johannes Brahms -- Edward Grieg -- Peter Ilyitch Tschaikowsky
+  -- Edward MacDowell -- Claude Achille Debussy -- Arturo Toscanini -- Leopold Stokowsky
+  -- Serge Koussevitzky.
+title: 'The World''s Great Men of Music: Story-Lives of Master Musicians'
+url: http://www.gutenberg.org/ebooks/13291
