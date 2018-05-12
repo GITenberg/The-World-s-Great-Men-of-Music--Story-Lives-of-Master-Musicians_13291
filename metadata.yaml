@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4981'
     url: http://www.gutenberg.org/2009/agents/4981
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13291#The-World-s-Great-Men-of-Music--Story-Lives-of-Master-Musicians
 gutenberg_bookshelf: Music
 gutenberg_issued: '2004-08-25'
 gutenberg_type: Text
